@@ -8,8 +8,22 @@ Public Issues and Controversies
 4. 그룹 과제 20%
 5. 최종 시험 (June 16) 20%
 
-### 그룹 과제
+### Group Project
 5 - 7 명이 그룹을 이루며, 그룹이 한국 사회 복지 측정에 기본적인 아이디어를 소개하는 레포트를 준비해야 한다.
+
+```
+The Policy Memo should include the following sections:
+  Definition and description of the problem: history, progress, current status, case studies or examples
+  Theoretical/philosophical discussion of the issue; use our readings to develop its understanding
+  Political, economic, and social impacts on Korea because of the problem for today and the future
+  How to improve the problem: specific policy ideas, ways to measure its improvement, what you may expect to change
+
+7 April: each group will present 2-3 topics of their choosing for assignment
+12 May: each group will submit a detailed outline of their “Policy Memo”
+26 May: “Policy Memo” due
+2 June: In-class presentations, part 1
+9 June: In-class presentations, part 2
+```
 
 ### 수업 일정
 | Date              | Topic |
@@ -218,3 +232,91 @@ egalitarian = based on equality or equity
 
 social harmony, moral precept
 
+## WEEK 5
+5 주차떄는 듣다가 놓친 것이 많아서 내용이 부실할 수 있다.
+
+# Group Project 가 있어요!
+
+Robert J. Fonser: inequality and Korean dream
+
+Leave to work (now korean) <-> Work to leave
+
+capitalism: essential problem
+
+mean: 25,000,000 WON
+
+it is easy to raise from mean to the higher than mean, but it is difficult to reach the mean.
+
+rentler
+
+3% ~ 5% of happy increase annually
+
+relative poor, rich
+
+```
+--------------------------- money
+-                   -
+-   pareto          -
+-               ----
+-           ----
+-       ----
+-   ----
+--------------------------- people
+```
+
+Divergence
+- richer gets richer
+- poorer gets poorer
+
+```
+      catastrophe!
+------
+     -
+     -  A
+     --
+     -
+    -------- B
+   -      C
+  -     --
+ -    --
+-   --
+  --
+--
+
+가로 - 시간, 세로 - 소득
+
+A 의 기울기는 C 보다 크며, B 는 부자였다가 몰락했어도 3 대는 간다.
+시간이 지남에 따라 두 그래프의 차이가 점점 더 커지고 있다.
+```
+
+Divergence 를 최소화 시키는 방법
+1. 교육 education
+2. 부의 재분배: 이상적으로 말해서, 고소득자가 베풀어 주는 것
+3. ...
+
+extra money
+
+퇴직 후의 돈
+
+인구 모델
+1. 삼각형
+2. 김밥 터짐
+3. 역 삼각형
+
+cruelty: 누군가를 다치게(hurt) 하였나? 여기서 다치게 했다는 것이 무엇인가?
+개인마다 다치다는 의미와 그 정도를 규정하는 해석의 차이가 반드시 존재할 수 밖에 없다. 다치다(hurt)는 것이 매우 flexible 한 특성이기 때문에 problem이 된다.
+> that is not cruelty to me, but you
+
+cruelty <-> not cruelty
+
+Economic Cruelty:  
+corst to one person or group for the benefit of another.
+
+Value System
+1. Value Monism
+
+  If all the world was Confucian, or Christian, or Saneuri Party, or Communist, etc. 
+
+2. Value Plurlism
+
+> You can satisfy **some of the people all of the time _Value Pluralism_**, and **all of the people some of the time _Value Monism_**, but it is impossible to satisfy all of the people all of the time
