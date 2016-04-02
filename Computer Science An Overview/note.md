@@ -210,6 +210,11 @@ Bit -> Nibble -> Byte -> WORD -> Field -> Record -> Block -> File -> DB
 
   (+) 으로 표기한다.
 
+5. Buffer
+6. NAND
+7. NOR
+8. XNOR
+
 Gate 또는 Switch 라고 부른다.
 
 트랜지스터 하나가 하나의 스위치 역할을 한다.
