@@ -4,7 +4,9 @@ Computer Science: An Overview
 - 담당 교수 송월봉
 - 수업 시간 Fri at 1 PM A Week for 2 hours
 
-# 2016-03-25 Fri
+MT 때문에 한 주 수업이 없었음
+
+# WEEK 4
 #### 컴퓨터와 로봇의 차이는 무엇일까?
 - 컴퓨터
 
@@ -136,3 +138,108 @@ protocol 통신 규약
 embedded
 
 miniaturization
+
+# WEEK 5
+#### 정보 표현 단위
+```
+Bit -> Nibble -> Byte -> WORD -> Field -> Record -> Block -> File -> DB
+```
+
+##### WORD
+1. half word 2 byte
+2. full word 4 byte
+3. double word 8 byte
+
+##### Field
+###### Number, String Field 를 구별하는 방법
+산술 연산이 가능할 때, Number 이며, 그 외 경우에 대해서는 문자이다. 
+예로 아파트 206 동을 표현하기 위해 206 만 쓴다고 할 때, 206 은 숫자로 취급하는 것 보다 
+문자로 취급하는 것이 더 나은 선택이다.
+
+상징적인 표현으로 Enter 를 눌러 한 줄 삽입할 때 마다 하나의 `Record` 가 생성되었다고 본다.
+즉 Enter 는 `Record` 를 구분해준다. 따라서 여러 Enter 가 포함되어 있는 것을 File 이라 부른다.
+
+##### Block
+다루기 용이함 등을 위한 데이터 표현 단위로써, 파일의 부분 집합을 말한다.
+
+##### DB
+어떤 `DB` 는 Databank 라고도 불리는데, 여기에서 Bank 는 불특정 다수가 이용할 수 있는 시스템을 상징한다.
+따라서 공공 데이터베이스같은 경우는 Bank 의 상징적인 의미를 차용하여 Databank 라고 부르기도 한다.
+
+#### Abstraction
+
+숫자 0 과 알파벳 O 를 구분하기 위해서 숫자 0 중간에 선을 하나 긋기도 한다.
+
+#### Byte
+하나의 문자를 표현하는 비트 묶음을 의미하며 다음 세 가지가 후보가 될 수 있다.
+
+1. 6 Bit: 특별한 목적으로 사용된다.
+2. 7 Bit: ASCII
+3. 8 Bit: EBCDIC
+
+그런데 표준은 3 번 8 Bit 이다.
+
+**DBCS**: Double Byte Character System
+**SBCS**: Single Byte Character System
+
+데이터를 서로 구별하게 하는 ~~_유일한 값_~~을 **Key** 라고 부른다.
+
+> 위에서 _유일한 값_ 이라고 쓰긴 했는데,
+> Unique Key 도 있으므로 이 부분은 지우는 것이 맞는 것 같다.
+
+각 문자를 입력하는 기계는 각 문자를 고유하게 구별해주므로 Keyboard 라 부른다.
+
+> 억지 아닌가?
+> 
+> 편리함을 위해 키보드에 같은 키(Shift, Ctrl, Alt, etc)가 양 쪽에 두개식 있기도 한다.
+
+#### Boolean Operation
+1. AND
+  
+  Dot 으로 표기한다.
+
+2. OR
+
+  + 으로 표기한다.
+
+3. NOT
+  
+  Prime 또는 위 쪽에 줄을 긋는다.
+
+4. XOR
+
+  (+) 으로 표기한다.
+
+Gate 또는 Switch 라고 부른다.
+
+트랜지스터 하나가 하나의 스위치 역할을 한다.
+
+위 각각의 회로 표현을 알아둔다. NOT 의 트랜지스터를 이용한 회로 구현을 알아둔다.
+
+#### Logic circuit
+1. **conbinational**
+
+  AND, OR, NOT 만을 사용하여 만들었다면 조합 논리이며,
+  메모리 기능이 없어 **비트를 저장할 수 없다.**
+2. **sequential**
+
+  Flip-Flop 을 사용하여 만들었다면 순서 논리이며
+  메모리 기능이 있어 **비트를 저장할 수 있다.**
+
+#### Flip-Flop _Latch_
+> Flip 뚝 - Flop 딱 뚝딱 뚝딱
+
+A circuit built from gates that can store one bit.
+- 하나의 라인은 1 을 저장한다.
+- 다른 하나의 라인은 0 을 저장한다.
+- 두 라인이 모두 0 이라면 최근에 저장된 값이 보존된다.
+
+간단하게 말해서 RAM 은 Latch 로 구성되어 있다.
+어떻게 작동하는 지 알아둔다.
+  
+
+##### 종류
+1. SR
+2. JK
+3. D
+4. T
