@@ -3,6 +3,7 @@
 
 - 정세화
 - 대학 영어 1
+- **중간 고사: 4월 18일 월 10시**
 
 교재만 읽는게 수업 전부 같은 느낌이 든다.
 진짜로 중요한 것은 캣토익 온라인 강의 듣는 것 같다.
@@ -112,3 +113,41 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
 
 등등 ...
 
+# 2016-04-04 월
+## 소집하다
+1. [convene][dictionary for convene] a [committee][dictionary for committee]
+2. [assemble][dictionary for assemble] a [committee][dictionary for committee]
+3. [organize][dictionary for organize] a [committee][dictionary for committee]
+
+[dictionary for convene]: http://www.dictionary.com/browse/convene
+[dictionary for assemble]: http://www.dictionary.com/browse/assemble
+[dictionary for organize]: http://www.dictionary.com/browse/organize
+[dictionary for committee]: http://www.dictionary.com/browse/committee
+
+## Singular Form 밖에 없는 단어
+1. [information][dictionary for information]
+2. [stationary][dictionary for stationary]
+  
+  stationary store: 문구점
+3. [machinary][dictionary for machinary]
+
+[dictionary for information]: http://www.dictionary.com/browse/information
+[dictionary for stationary]: http://www.dictionary.com/browse/stationary
+[dictionary for machinary]: http://www.dictionary.com/browse/machinary
+
+- one (**singular**): tire
+- ones (**plural**): tires
+
+**An** Employee**s** _잘못된 단어_
+
+## Type of adjective problem in TOEIC
+1. position of adjective
+2. adjective phrase: be _adj_ _prep_
+3. confusing adjectives
+  1. sensible
+  2. sensitive
+
+  1. comprehensive
+  2. comprehension _noun_
+
+  ...
