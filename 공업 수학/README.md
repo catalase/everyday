@@ -1,6 +1,9 @@
 공업 수학
 ========
 
+# Mid Term Fri April 22 2016 at 11:00
+1장, 2장과 간단한 테스트가 시험에 출제된다고 하였다.
+
 ## 미분방정식
 
 간략하게 말하기 위하여 아래에 적은 대부분은 사실상 접두사 노릇을 하고 있는 "미분 방정식" 단어를 생략하였다.
@@ -76,3 +79,18 @@
   > 나도 이런 경험이 많아서 아는데 이 정도 실력까지 쌓을려면 사실상 해당 분야 전문가 수준이 되어야 한다는 걸 함축하고 있는건데... 강한 추상성으로 공연성을 확보한 말인거 같음
 
 마지막으로 왜이렇게 수업 진행은 안하고 쓸때없는 리뷰나 개요만 자꾸 훍어보는건지
+
+# Fri April 8 2016
+## 미분방정식의 해 (Solution)
+1. General Solution
+2. Particular Solution
+3. 특이해 _(영어로 알면 써놓기)_
+
+오늘도 뭘 배운지 모르겠다. 강의를 들을 필요가 없다는 것에 무게가 실리고 있으며, 이는 혼자 하는게 나을거 같다는 것을 함축하고 있다.
+
+## Linear ordinary differential equation
+선형 미방을 설명했으니 결론만 말하자면 전혀 들을 필요가 없었으며 [여기](https://en.wikipedia.org/wiki/Linear_differential_equation)를 눌러 위키만 보면 된다.
+
+## Separation of variables
+변수 분리를 설명하였으나 결론만 말하자면 [여기](https://en.wikipedia.org/wiki/Separation_of_variables)눌러 위키만 보면 된다.
+
