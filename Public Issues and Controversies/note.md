@@ -1,31 +1,31 @@
 Public Issues and Controversies
 ===============================
 
-### Course Requirements
+# Course Requirements
 1. 출석 20%
 2. 과제 20%
 3. 중간 시험 (April 22) 20%
 4. 그룹 과제 20%
 5. 최종 시험 (June 16) 20%
 
-### Group Project
+# 그룹 과제
 5 - 7 명이 그룹을 이루며, 그룹이 한국 사회 복지 측정에 기본적인 아이디어를 소개하는 레포트를 준비해야 한다.
 
-```
-The Policy Memo should include the following sections:
-  Definition and description of the problem: history, progress, current status, case studies or examples
-  Theoretical/philosophical discussion of the issue; use our readings to develop its understanding
-  Political, economic, and social impacts on Korea because of the problem for today and the future
-  How to improve the problem: specific policy ideas, ways to measure its improvement, what you may expect to change
+# Mid Term
+## 예상 문제 유형
+1. Explain
+2. Fill Blank
+3. Matching Keyword
 
-7 April: each group will present 2-3 topics of their choosing for assignment
-12 May: each group will submit a detailed outline of their “Policy Memo”
-26 May: “Policy Memo” due
-2 June: In-class presentations, part 1
-9 June: In-class presentations, part 2
-```
+## 문항 수
+1. 15
+2. 5
+3. 1 Diagram
+4. 2~3 Short Answer
 
-### 수업 일정
+간단하게 지금 까지 수업 PPT 열고 복습하면 된다. Week 3 주 Policy 내용이 하나도 기억이 안나므로 다시 복습하자.
+
+# 수업 일정
 | Date              | Topic |
 | ----------------- | ----: |
 | Week 1 (March 3)  | Introduction: Public Issues and Policy Controversies |
@@ -45,7 +45,7 @@ The Policy Memo should include the following sections:
 | Week 15 (June 9)  | Group Presentations, part 2 Review and Final Exam Preparation |
 | Week 16 (June 16) | Final Exam |
 
-## Week 1
+# Week 1
 
 - Equality 모두 같음. same
 - Equity 비례적임. proportional
@@ -76,15 +76,15 @@ inequality와 inequity는 correlation이다.
   
 - level society = equal society
 
-## Week 2
+# Week 2
 
 > Quorum
 > at least half in a group
 
-## Week 3
-기억이 안나
+# Week 3
+아마 이 내용을 나중에 서술하다 보니까 Week 1, Week 2 내용에 녹아들었거나 기억이 안나거나 둘 중 한 경우로 인해 내용이 없다.
 
-## Week 4
+# Week 4
 
 > 카스단이 웃는 표정으로 나를 바라봤다. 나도 멋쩍어서 일단 웃었다.
 
@@ -232,91 +232,117 @@ egalitarian = based on equality or equity
 
 social harmony, moral precept
 
-## WEEK 5
-5 주차떄는 듣다가 놓친 것이 많아서 내용이 부실할 수 있다.
+# Week 6
+## Preview Week 7
+다음 주 **Phd 노재인** 이라는 분이 오셔서 Kasdan 대신 수업을 진행한다. 수업 진행 전 다음을 해야 한다.
 
-# Group Project 가 있어요!
+1. We Should All Be Feminists 읽기
+2. 청년 배당금 (성남시 20%) 정책에 대하여 생각하기. Discussion 이 있음.
 
-Robert J. Fonser: inequality and Korean dream
+  이 정책이 equality, or equity 한가?
 
-Leave to work (now korean) <-> Work to leave
-
-capitalism: essential problem
-
-mean: 25,000,000 WON
-
-it is easy to raise from mean to the higher than mean, but it is difficult to reach the mean.
-
-rentler
-
-3% ~ 5% of happy increase annually
-
-relative poor, rich
-
+## LIKERT
 ```
---------------------------- money
--                   -
--   pareto          -
--               ----
--           ----
--       ----
--   ----
---------------------------- people
+1 4 5 6 7
 ```
 
-Divergence
-- richer gets richer
-- poorer gets poorer
+## 2015 In Numbers
+1. 위안부 배상금 __1 billion yen__
+  - 배상금 10 억이 적절한 돈의 양인가? 아니라면 어느 정도를 보상해줘야 하는가?
+  - 사죄를 배상금으로 해결하려는 것이 올바른 것인가? 배상금이 아니라면 일본은 무엇으로 사죄해야 하는가?
+  > 아무리 고민해봐도 배상금말고 좋은 방안이 없음.
 
-```
-      catastrophe!
-------
-     -
-     -  A
-     --
-     -
-    -------- B
-   -      C
-  -     --
- -    --
--   --
-  --
---
+2. 선거 
+- 정책 지속성 문제
+  > 미국도 매한가지 고질적인 문제이다.
 
-가로 - 시간, 세로 - 소득
+3. GDP
+이제 더이상 과거와 같은 한강의 기적이 일어나지 않고 있다. 이것은 한국의 성장 패러다임이 이제 과거와는 달라졌음을 의미하며 이를 받아들여 현재 한국 경제가 죽었다(dead)는 것을 인정하고 새로운 경제 성장 패러다임을 추진해야 할 것이다.
+> 과거의 영광을 다시 불러 일으키는 것도 있다. 간단한 overview 를 원한다면 Week 6 Assignment 를 읽어보자.
 
-A 의 기울기는 C 보다 크며, B 는 부자였다가 몰락했어도 3 대는 간다.
-시간이 지남에 따라 두 그래프의 차이가 점점 더 커지고 있다.
-```
+4. 한 해 영화 관람객 수: 208.8 Million People
+왜 영화를 보는 것인가?
+1. escape from reality
+2. leisure
 
-Divergence 를 최소화 시키는 방법
-1. 교육 education
-2. 부의 재분배: 이상적으로 말해서, 고소득자가 베풀어 주는 것
-3. ...
+위 2 가지 요소는 사람을 행복하게 만들 수 있다.
 
-extra money
+5. 전세 -> 월세
+주택 시장의 서구화(westernize)가 진행 중이다.
 
-퇴직 후의 돈
+전월세 돈의 흐름도 따졌으나 적지 않겠다.
 
-인구 모델
-1. 삼각형
-2. 김밥 터짐
-3. 역 삼각형
+6. IPO: 2.81 Trillion Won
 
-cruelty: 누군가를 다치게(hurt) 하였나? 여기서 다치게 했다는 것이 무엇인가?
-개인마다 다치다는 의미와 그 정도를 규정하는 해석의 차이가 반드시 존재할 수 밖에 없다. 다치다(hurt)는 것이 매우 flexible 한 특성이기 때문에 problem이 된다.
-> that is not cruelty to me, but you
+## 행동 경제학
+Value evaluation depends on personal sense.
 
-cruelty <-> not cruelty
+pure econimic 관점으로 볼 때, 이상한 행동이지만 사람들은 이상한 행동을 많이 하고 있으므로 이를 설명하기 위해 behavior economic 를 사용한다.
 
-Economic Cruelty:  
-corst to one person or group for the benefit of another.
+## Tragedy of the commons
+협업하는 것이 더 이윤이 된다. (Profitable to incorporate)
 
-Value System
-1. Value Monism
+Nobody wins at the end
 
-  If all the world was Confucian, or Christian, or Saneuri Party, or Communist, etc. 
+바다, 대기와 같은 공공재는 과연 어떻게 되겠는가? 개인이 더 많은 이윤을 얻기 위해 바다 속 물고기 씨를 말리거나, 심각한 대기 오염을 초래한다면?
 
-2. Value Plurlism
+자신의 이윤을 극대화하는 것은 지극히 정상적인 인간 행동인 동시에 매우 비극적이다. (very normal human behavior and very tragedy)
 
-> You can satisfy **some of the people all of the time _Value Pluralism_**, and **all of the people some of the time _Value Monism_**, but it is impossible to satisfy all of the people all of the time
+공공재의 비극을 막기 위해서는 어떻게 해야 하는가? 자신의 이윤에 따라 차등적으로 세금을 부과하는 등의 수단이 있을 것이다. 그렇다면 이러한 일은 누가 하는가? 이는 regulation, power 개념과 연관되며 국가 존재 의의 등 여러가지 개념과 연관된다.
+
+- Non-rivalrous: 경쟁 없음.
+
+- Non-excludable: 독점 없음.
+
+|               | Excludable    | Non-Excludable |
+|---------------|---------------|----------------|
+| Rivalrous     | Private Goods | Common Goods   |
+| Non-Rivalrous | Club Goods    | Public Goods   |
+
+Private Goods 와 Public Goods 는 opposite 관계이다.
+
+Club Goods 에는 costco, private parks 같은 것들이 있으며, Public Goods 에는 air, simple math, language 같은 것들이 있고, Common Goods 에는 mine 같은 것들이 있다.
+
+어떤 곳에서는 Public Goods 일 수 있으나 다른 곳에서는 그렇지 않을 수 있다. 다시 말하자면 cultural, social 영향을 받는다.
+
+우리 주변 상당히 많은 것이 Public Goods 이지만 우리는 잘 모르고 지나간다.
+
+Public Goods are not distributed equally or equitably.
+
+#### Incumbent
+social responsibility
+
+Relative: 왜 항상 모든 곳에서 Distribution 이 생기는가? 생기지 않는다면 자신이 자기를 생각할 때 괜찮을 지 몰라도 다른 사람이 나를 바라볼 때 어떤 문제가 생기겠는가? -> 모집단 중 누가 가장 High 위치인가는 어떻게 결정하는가? Distribution 없이 결정할 수 있는가? 꼭 결정해야 하는가?
+
+in doing so
+
+equalize
+
+KSAT
+
+stiglitz
+
+## Nanny & Light Paternalism State
+### Nanny
+raise the children. very restricted. stick.
+원치 않는 행위를 **처벌**하여 원치 않는 행위 발생을 없앤다. 이를 **Direct legislation** 이라고 부른다.
+
+### Paternalism
+acting like father (서구적 개념). encouraging. carrot.
+원치 않는 행위를 처벌하는 nanny 보다는 원하는 행위를 하였을 때 인센티브를 주는 등 행동을 장려하도록 하여 원치 않는 행위를 옮지 못한 시선으로 바라보게 만든다. 쉽게 말해서 Confucian 의 사상이라고 생각하면 된다. 이를 **Indirect legislation** 이라고 부른다.
+
+위 두개를 간단하게 설명하자면 **당근과 채칙**이라고 보면 된다.
+> Donkey 만 고생한다.
+
+### Example
+도로 위에서 과속을 하는 차량이 있다면 둘은 어떤 입장을 취할까?
+
+nanny 입장에서는 과속 금지 법안을 제정하여 법을 어기는 즉시 panelty 를 내려 과속을 금지한다.
+
+반대로 paternalism 은 안전이 허용하는 만큼 도로의 속도 제한을 풀거나 high pass 를 설치하여 과속을 허용하게 한다.
+
+> North Korea = Nanny State
+
+위 두 방식은 정책 효과를 좌지우지하는 중요한 방법이다.
+
+Rule = equalizing mean
