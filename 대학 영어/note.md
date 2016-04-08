@@ -8,11 +8,12 @@
 교재만 읽는게 수업 전부 같은 느낌이 든다.
 진짜로 중요한 것은 캣토익 온라인 강의 듣는 것 같다.
 
-# 이전 2 번의 수업
 
-머라 하였던 것 같은데 기억이 안나므로 나중에 서술하겠다.
+# Mid Term
+중간 시험에 관해서는 시험 이전 주에 설명하겠다고 한다.
+중간 시험 내용은 지금까지 배운 내용이 나온다고 했는데 정확하게 무엇인지 잘 모르겠다.
 
-# 2016 03 28 월
+# Mon March 28 2016
 
 ### verb _find_
 
@@ -34,17 +35,17 @@ subject have + object + verb
 3. She had her house painted
 4. We had a professional photographer take pictures of everyone
 
-### Words
+### words
 
-| 단어 | 의미 |
-| ---- | ---- |
-| spokesperson | 대변인 spokesman, spokeswoman or spokesperson |
-| pay in full | 전액 지불 |
-| place an order | 주문하다 |
-| sales representative | 영업 직원 |
-| sales figures | 판매량 |
-| \*benefit**s** | 혜택 |
-| a moment of silence | 묵념. 잠시 조용하라는 의미 |
+1. spoke**s**person
+
+  > _spokesman, spokeswoman_
+2. pay in full
+3. place an order
+4. sales representative _영업 직원_
+5. sales figures _판매량_
+6. benefit**s**
+7. a moment of silence _묵념 시간, 잠시 조용한 시간_
 
 be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 많은 사람들이 큰 주의를 기울이지 않으므로 주의한다.
 
@@ -113,7 +114,7 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
 
 등등 ...
 
-# 2016-04-04 월
+# Mon April 4 2016
 ## 소집하다
 1. [convene][dictionary for convene] a [committee][dictionary for committee]
 2. [assemble][dictionary for assemble] a [committee][dictionary for committee]
@@ -151,3 +152,26 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
   2. comprehension _noun_
 
   ...
+
+## words
+1. gift certificate
+2. redeem
+3. considerable
+4. considerate
+5. kindly
+6. proceed
+7. precede
+8. timely
+9. at risk
+10. gene
+11. taste bud
+12. bud
+13. diabete**s**
+14. sour
+15. chew
+16. swallow _shallow 와 주의_
+17. vinegar
+18. soy sause
+19. saliva
+20. grapefruit
+21. cauliflower
