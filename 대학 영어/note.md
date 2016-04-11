@@ -10,8 +10,23 @@
 
 
 # Mid Term
-중간 시험에 관해서는 시험 이전 주에 설명하겠다고 한다.
-중간 시험 내용은 지금까지 배운 내용이 나온다고 했는데 정확하게 무엇인지 잘 모르겠다.
+Mon Apr 25 10:00
+
+# How to Priview
+1. 제목과 소제목
+2. Figures (도표, 그림)
+3. 내용의 시작과 끝 읽어보기 (영어 글의 특징)
+
+101 one-zero-one
+내용의 시작을 말함.
+
+## Skmming & Scanning
+1. Skimming: 흙어보기
+2. Scanning: 필요한 것만 골라보기
+  1. pick up important key word
+  2. repeated key words
+  3. linking words
+  4. names, numbers
 
 # Mon March 28 2016
 
@@ -175,3 +190,21 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
 19. saliva
 20. grapefruit
 21. cauliflower
+
+# Mon Apr 11 2016
+Sentence: _please disregard this notice (message)_
+
+1. costly _(adjective) expensive_
+2. timely _(adjective) 시기 적절하게_
+3. orderly _(adjective) arranged or organized in a logical or regular way_
+4. decidedly _확실하게_
+5. badly _심하게. 나쁘게라는 의미가 아님_
+6. barely _only just_
+7. highly _extremely_
+8. lately _recently_
+9. mop _대걸레 질 하다_
+10. mow _잔디 깍다_
+11. vaccum _진공_
+12. steer
+
+무인 자동차 = driverless cars = self-driving cars
