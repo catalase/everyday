@@ -28,8 +28,6 @@ Mon Apr 25 10:00
   3. linking words
   4. names, numbers
 
-# Mon March 28 2016
-
 ### verb _find_
 
 1. I found it difficult to explain
@@ -129,7 +127,6 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
 
 등등 ...
 
-# Mon April 4 2016
 ## 소집하다
 1. [convene][dictionary for convene] a [committee][dictionary for committee]
 2. [assemble][dictionary for assemble] a [committee][dictionary for committee]
@@ -191,7 +188,6 @@ be being past particle 은 리스닝에서 빠르게 들리고, 리딩에서는 
 20. grapefruit
 21. cauliflower
 
-# Mon Apr 11 2016
 Sentence: _please disregard this notice (message)_
 
 1. costly _(adjective) expensive_
@@ -208,3 +204,42 @@ Sentence: _please disregard this notice (message)_
 12. steer
 
 무인 자동차 = driverless cars = self-driving cars
+
+A number of + plural noun + plural verb  
+The number of + plural noun + singular verb
+
+1. Neither A and **B**
+2. Not A but also **B*
+3. Either A or **B**
+
+위 세 가지 경우에서 verb 의 number 는 B 에 일치시킨다.
+
+1. Both A and B + plural verb
+2. Each of + plural noun + singular verb
+
+1. A great deal of + uncountable noun
+2. A large number/amount of + uncountable noun
+
+1. material costs _자재 비용_
+2. vice - _2 인자를 의미하는 단어_
+3. cost-saving measure _비용 절감책. meausre 는 대책(way)를 의미함_
+4. dependence _the state of relying on or needing someone or something for aid, support, or the like._
+5. thanks to + noun _한국어로는 덕분어 라는 의미가 자연스러워 보임_
+6. what would it be like if -
+7. what if + ordinary sentence ? _ordinary sentence 는 의문문 순서로 작성하지 않는다!_
+8. end up _finally, become ..._
+9. pul of the road a car _차 도로에서 빼_
+10. who is to blame?
+11. bleive in something
+
+be to
+1. 예상
+2. 당위
+
+> 예상은 뭐고 당위는 뭔지 도저히 모르겠으나 나중에 알게되겠지하며 일단 써놓음
+
+## Who is to blame?
+he was to blame.
+
+자동사 동사를 풀어 쓴 것 같은 느낌이 든다. he blamed 보다는 be was to blame 이 더 서술적인 느낌이 든다.
+
